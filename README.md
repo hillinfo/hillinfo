@@ -1,16 +1,16 @@
 # Home
 
-    index
-    ├── About
-    ├── Blog
-
 About
 
-The main content here is related to work, having worked largely in the software industry in Europe as part of various professional projects :tags: open source, erp, article.
+work, having worked largely in the software industry in Europe as part of various professional projects :tags: open source, erp, article.
+
+© hi-ll
 
 More. 
 
-© hi-ll
+   index
+    ├── About
+    ├── Blog
 
 Blog
 
