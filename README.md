@@ -10,8 +10,6 @@ The main content here is related to work, having worked largely in the software 
 
 More. 
 
-.. note:: hi-ll offers `consulting and contracting`_ related to Architecture. If you want help in your organization, please contact me.
-
 © hi-ll
 
 Blog
@@ -25,5 +23,7 @@ Blog
 Point of Interest
 
     * GitHub, Bitbucket, and Gitlab webhooks
+
+.. note:: hi-ll offers `consulting and contracting` related to Architecture. If you want help in your organization, please contact me.
 
 <> with ❤ by GitHub
