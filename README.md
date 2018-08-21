@@ -3,8 +3,10 @@
 information technology (IT) professional, having worked largely in the software industry in Europe as part of various professional projects 
 
 Solution Architect
+
 ![profile](https://lh6.googleusercontent.com/uqw176ozxtR99m-F1rEVEHNjafuDEljhkC0ctusjlGvHogTRU0hawpey4Bs=w40)
-[More](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50)[linkedin](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
+
+More [LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50) | [Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50)
 
 ------------------------------------------------------------
 
