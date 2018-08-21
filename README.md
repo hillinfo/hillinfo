@@ -6,33 +6,33 @@ Solution Architect
 
 ![profile](https://lh6.googleusercontent.com/uqw176ozxtR99m-F1rEVEHNjafuDEljhkC0ctusjlGvHogTRU0hawpey4Bs=w40)
 
-More [LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50) | [Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50)
-
+More [LinkedIn] | [Xing]
 ------------------------------------------------------------
 
-| | |
-|:--|:--|
-|Area|Employed at|
-|**Information technology**|![Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
-|**Consultant**|
-|**Project manager**|
-|**tags: open source, erp**|
+Specialist
+- |**Information technology**
+- |**Consultant**|
+- |**Project manager**|
+- |**tags: open source, erp**|
 
+- ![Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
 
-[Address] [Europe/Zurich CEST, CET] Affoltern, Zurich
-[Nationality] [Switzerland, Uster] from [Edinburgh, Scotland]
+- [Address] [Europe/Zurich CEST, CET] Affoltern, Zurich
+- [Nationality] [Switzerland, Uster] from [Edinburgh, Scotland]
 © hi-ll
 <> with ❤ by GitHub
 
 Social
-- ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50)
 - [Email] stuart@hi-ll.info
 - [Telephone] +41 
 - ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50)
 
+- ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
 - Twitter[@hillinfo](https://twitter.com/hillinfo)
+(https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
 - Linkedin[hillinfo](www.linkedin.com/in/hillinfo)
+- Xing[hillinfo](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50)
 - Chat[Slack](http://hi-llinfo.slack.com)
 - Forum[Discuss](http://discuss.hillinfo.io)
 - Shop[hillinfo](https://hillinfo.myshopify.com/products/hillinfo-shirt)
