@@ -7,8 +7,8 @@ I’ve listed some of my experience in the software industry in Europe as part o
 
 Summary:
 
-    Current as part of information technology (IT) professional/Integration Architecture [Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Swisscom**|
-    Previous [Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
+- Current as part of information technology (IT) professional/Integration Architecture [Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Swisscom**|
+- Previous [Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
 
 Learn more on  **LinkedIn**
 
@@ -24,7 +24,8 @@ Learn more on  **LinkedIn**
 - GitHub [github.com/hillinfo](https://hillinfo.github.io/hillinfo/)
 
 
-[Europe/Zurich CEST, CET] Affoltern, Zurich [Citizenship] [Switzerland, Uster] & [Scotland, Edinburgh].
+[Europe/Zurich CEST, CET] Affoltern, Zurich 
+[Citizenship] [Switzerland, Uster] & [Scotland, Edinburgh]
 
 
 Blog
