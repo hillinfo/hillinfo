@@ -1,31 +1,18 @@
-# About
-
-information technology (IT) professional, having worked largely in the software industry in Europe as part of various professional projects 
-
-Solution Architect
-
 ![profile](https://lh6.googleusercontent.com/uqw176ozxtR99m-F1rEVEHNjafuDEljhkC0ctusjlGvHogTRU0hawpey4Bs=w40)
-
-More [LinkedIn](www.linkedin.com/in/hillinfo) | [Xing](www.xing.com/in/hillinfo)
-
+# About
 ------------------------------------------------------------
+I’ve brought some of experience as part of various professional consulting and contracting projects for companies together, to give access to engagements – having worked largely in the software industry in Europe.
+Summary:
 
-Specialist
-- |**Information technology**
-- |**Consultant**|
-- |**Project manager**|
-- |**tags: open source, erp**|
+    as part of information technology (IT) professional/Integration Architecture
+    Current [Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
+    Previous [Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
 
-Employed at
-- ![Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
+Learn more on the **[LinkedIn]**(www.linkedin.com/in/hillinfo).
 
-- [Address] [Europe/Zurich CEST, CET] Affoltern, Zurich
-- [Nationality] [Switzerland, Uster] from [Edinburgh, Scotland]
+[Address] [Europe/Zurich CEST, CET] Affoltern, Zurich [Citizenship] [Switzerland, Uster] & [Scotland, Edinburgh].
 
-© hi-ll
-
-<> with ❤ by GitHub
-
+- |**Open Source ERP** |**Consultant**| **Project manager**|
 Social
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50)
 - stuart@hi-ll.info
@@ -42,31 +29,14 @@ Social
 - Shop[hillinfo](https://hillinfo.myshopify.com/products/hillinfo-shirt)
 - GitHub[github.com/hillinfo](https://hillinfo.github.io/hillinfo/)
 
+© hi-ll
 
-FAQs
-
-   index
-    ├── About
-    ├── Blog
 
 Blog
 
     Aug 21, 2018 - Welcome
     
     Welcome. Bienvenuti. Willkommen. Bienvenu.
-
-.. post:: Aug 21, 2018
-
-Point of Interest
-
-    * GitHub, Bitbucket, and Gitlab webhooks
-
-.. note:: hi-ll offers `consulting and contracting` related to Architecture. If you want help in your organization, please contact me.
-
-
-Additional links
-
-    SAP Help - www.help.sap.com
 
 Sponsor
 
