@@ -1,14 +1,17 @@
 ![profile](https://lh6.googleusercontent.com/uqw176ozxtR99m-F1rEVEHNjafuDEljhkC0ctusjlGvHogTRU0hawpey4Bs=w40)
 # About
 ------------------------------------------------------------
-**Architecture**. **Consulting**. **Project management**.
 
-I’ve listed some of my experience in the software industry in Europe as part of various professional projects for companies, to give you access to engagements – having worked largely in ERP and Open Source.
+I’ve listed some of my experience in the software industry in Europe as part of various professional projects for companies, to give you access to engagements – information technology (IT) professional.
 
 Summary:
-
-- Current as part of information technology (IT) professional/Integration Architecture [Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Swisscom**
-- Previous [Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**
+- Architecture. Consulting. Project management.
+- Current 
+Solution Architect as part of Integration Architecture having worked largely in ERP and Open Source 
+[Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Swisscom**
+- Previous 
+Consultant having worked largely in ERP and Open Source
+[Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**
 
 Learn more on  **LinkedIn**
 
