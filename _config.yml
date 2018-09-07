@@ -1,1 +1,8 @@
+# Site settings
+title: hillinfo
+description: "hillinfo"
+author: "hillinfo"
+google_analytics: UA—102607779-1
+
+# Build settings
 theme: jekyll-theme-cayman
