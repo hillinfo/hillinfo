@@ -12,13 +12,12 @@ Summary:
 
 Learn more on  **LinkedIn**
 
-- ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)(https://www.linkedin.com/in/hillinfo) 
+- ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50) hillinfo
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) stuart@hi-ll.info
-- ![Telephone] +41 
 - ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) @hillinfo
 - ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)@hillinfo
 
-- Xing [hillinfo](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50)
+- ![Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50) hillinfo
 - Chat [Slack](http://hi-llinfo.slack.com)
 - Forum [Discuss](http://discuss.hillinfo.io)
 - Shop [hillinfo](https://hillinfo.myshopify.com/products/hillinfo-shirt)
