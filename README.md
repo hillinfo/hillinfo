@@ -7,8 +7,8 @@ I’ve listed some of my experience in the software industry in Europe as part o
 
 Summary:
 
-- Current as part of information technology (IT) professional/Integration Architecture [Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Swisscom**|
-- Previous [Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**|
+- Current as part of information technology (IT) professional/Integration Architecture [Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Swisscom**
+- Previous [Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**
 
 Learn more on  **LinkedIn**
 
@@ -16,7 +16,6 @@ Learn more on  **LinkedIn**
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) stuart@hi-ll.info
 - ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) @hillinfo
 - ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)@hillinfo
-
 - ![Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50) hillinfo
 - Chat [Slack](http://hi-llinfo.slack.com)
 - Forum [Discuss](http://discuss.hillinfo.io)
@@ -33,7 +32,3 @@ Blog
     Aug 21, 2018 - Welcome
     
     Welcome. Bienvenuti. Willkommen. Bienvenu.
-
-Sponsor
-
-    Swiss Olympic - www.swissolympic.ch
