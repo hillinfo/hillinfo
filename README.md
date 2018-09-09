@@ -8,12 +8,12 @@
 
 Stuart has had a long career in the software industry in Europe. He has held leadership positions at large companies, from private to public companies, often in telecom consumer products.
 
-[Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
-[Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
-
 He began his career in the software industry as part of various Telecom projects for Deutsche Aeropspace as an information technology (IT) professional. He spent 6 years at SAP, at the source of Platform Development overseeing Clients Platform Operations; Author for SAPInsider.com and AsktheExpert Group, before consulting as Principal at Siemens for Primergy brand and independently joining SAP Basis projects at Nestle, Accenture, & Statoil, immediately before becoming as part of Integration Architecture at Johnson & Johnson having worked largely in ERP and Swisscom IT Services, launching Mobile and Health SAP Practice.
 
 I go back to this circle of technology advisers regarding **#Telecom #Health #PrivateBanking**. Learn more on  **LinkedIn**
+
+[Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
+[Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
 
 © 2018 hillinfo | All Rights Reserved | Privacy Policy
 
