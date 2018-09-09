@@ -1,6 +1,4 @@
 ![profile](https://lh6.googleusercontent.com/uqw176ozxtR99m-F1rEVEHNjafuDEljhkC0ctusjlGvHogTRU0hawpey4Bs=w40)
-# Team
-
 ### STUART HILL | SOLUTION ARCHITECT
 ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50) 
 ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
