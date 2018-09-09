@@ -17,7 +17,7 @@ Learn more on  **LinkedIn**
 ![Equinor aka. Statoil](https://media.licdn.com/dms/image/C4E0BAQEY5vHCfHo1DA/company-logo_400_400/0?e=1544659200&v=beta&t=g_T-ruRNrnDHkQpa9DP6eRQG0xBWK5Bq95_umKT6_0k)
 ![Siemens](https://media.licdn.com/dms/image/C560BAQEAj0Aclcw16w/company-logo_200_200/0?e=1544659200&v=beta&t=tlIHO5IbEjs2eIEoyy6bNV-b-z0VkohGExKx0cToeEU)
 ![SAP](https://media.licdn.com/dms/image/C4D0BAQEsTL5Xl-6FjQ/company-logo_400_400/0?e=1544659200&v=beta&t=wAD89dpELk3esaFYbhEnKP9wr-IW_UZpDJyYLzU5uqs)
-![Hewlett Packard Enterprise](https://media.licdn.com/dms/image/C4D0BAQHT3VaXTZuxiQ/company-logo_400_400/0?e=1544659200&amp)
+(https://media.licdn.com/dms/image/C4D0BAQHT3VaXTZuxiQ/company-logo_400_400/0?e=1544659200&amp)
 ![Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA).
 ![PwC](https://media.licdn.com/dms/image/C4D0BAQGJDeq25SnzVA/company-logo_400_400/0?e=1544659200&v=beta&t=drrebTejRvWC9jRwv0dsZsZp55wexeluvb8o20QyBo0)
 ![HSG](https://media.licdn.com/dms/image/C560BAQHaInt1URj6Vg/company-logo_400_400/0?e=1544659200&v=beta&t=P1enlfz771T-xia25Wwxn6Div8y3IlaD24rRBbsrK8Q)
@@ -25,9 +25,8 @@ Learn more on  **LinkedIn**
 
 © 2018 hillinfo  All Rights Reserved  Privacy Policy
 
-Social
-
-- ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) stuart@hi-ll.info
+![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) 
+- stuart@hi-ll.info
 - Address [Europe/Zurich] 
 - ![Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50) hillinfo
 - Citizenship [Switzerland, Uster] & [Scotland, Edinburgh]
