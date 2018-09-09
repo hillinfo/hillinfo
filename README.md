@@ -18,7 +18,7 @@ I go back to this circle of technology advisers regarding **#Telecom #Health #Pr
 © 2018 hillinfo  All Rights Reserved  Privacy Policy
 
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) stuart@hi-ll.info
-- Address: Affoltern, Zurich [Europe/Zurich CEST, CET] 
+- Address [Europe/Zurich] 
 - ![Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50) hillinfo
 - Citizenship [Switzerland, Uster] & [Scotland, Edinburgh]
 - Chat [Slack](http://hi-llinfo.slack.com)
