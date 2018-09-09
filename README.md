@@ -8,6 +8,9 @@
 
 Stuart has had a long career in the software industry in Europe. He has held leadership positions at large companies, from private to public companies, often in telecom consumer products.
 
+[Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
+[Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
+
 He began his career in the software industry as part of various Telecom projects for Deutsche Aeropspace as an information technology (IT) professional. He spent 6 years at SAP, at the source of Platform Development overseeing Clients Platform Operations; Author for SAPInsider.com and AsktheExpert Group, before consulting as Principal at Siemens for Primergy brand and independently joining SAP Basis projects at Nestle, Accenture, & Statoil, immediately before becoming as part of Integration Architecture at Johnson & Johnson having worked largely in ERP and Swisscom IT Services, launching Mobile and Health SAP Practice.
 
 I go back to this circle of technology advisers regarding **#Telecom #Health #PrivateBanking**. Learn more on  **LinkedIn**
@@ -15,20 +18,9 @@ I go back to this circle of technology advisers regarding **#Telecom #Health #Pr
 © 2018 hillinfo | All Rights Reserved | Privacy Policy
 
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) stuart@hi-ll.info
-- ![Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50) hillinfo
 - Address: Affoltern, Zurich [Europe/Zurich CEST, CET] 
-- Citizenship: [Switzerland, Uster] & [Scotland, Edinburgh]
+- ![Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50) hillinfo
+- Citizenship [Switzerland, Uster] & [Scotland, Edinburgh]
 - Chat [Slack](http://hi-llinfo.slack.com)
 - Forum [Discuss](http://discuss.hillinfo.io)
-------------------------------------------------------------
 
-Summary:
-[Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Swisscom**
-[Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA) **Accenture**
-
-
-Blog
-
-    Aug 21, 2018 - Welcome
-    
-    Welcome. Bienvenuti. Willkommen. Bienvenu.
