@@ -10,17 +10,14 @@ Stuart has had a long career in the software industry in Europe. He has held lea
 
 He began his career in the software industry as part of various Telecom projects for Deutsche Aeropspace as an information technology (IT) professional. He spent 6 years at SAP, at the source of Platform Development overseeing Clients Platform Operations; Author for SAPInsider.com and AsktheExpert Group, before consulting as Principal at Siemens for Primergy brand and independently joining SAP Basis projects at Nestle, Accenture, & Statoil, immediately before becoming as part of Integration Architecture at Johnson & Johnson having worked largely in ERP and Swisscom IT Services, launching Mobile and Health SAP Practice.
 
-[Europe/Zurich CEST, CET] 
-
-Address: Affoltern, Zurich
-Citizenship: [Switzerland, Uster] & [Scotland, Edinburgh]
-
 I go back to this circle of technology advisers regarding **#Telecom #Health #PrivateBanking**. Learn more on  **LinkedIn**
 
 © 2018 hillinfo | All Rights Reserved | Privacy Policy
 
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) stuart@hi-ll.info
 - ![Xing](https://lh3.googleusercontent.com/P1KsEu_g3n7YaeQNOUnu2t8RS5_4nrTHdt_PSik5GhPSCIivD1DbeLnAnY8=w50) hillinfo
+- Address: Affoltern, Zurich [Europe/Zurich CEST, CET] 
+- Citizenship: [Switzerland, Uster] & [Scotland, Edinburgh]
 - Chat [Slack](http://hi-llinfo.slack.com)
 - Forum [Discuss](http://discuss.hillinfo.io)
 ------------------------------------------------------------
