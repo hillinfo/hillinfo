@@ -15,7 +15,7 @@ I go back to this circle of technology advisers regarding **#Telecom #Health #Pr
 [Swisscom](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
 [Accenture](https://media.licdn.com/dms/image/C4E0BAQE_tMd_dRgIzQ/company-logo_100_100/0?e=1542844800&v=beta&t=m1HwNcWFbSqSArOxlEXo3FVv61Zbry7c61-gy3FewDA)
 
-© 2018 hillinfo | All Rights Reserved | Privacy Policy
+© 2018 hillinfo  All Rights Reserved  Privacy Policy
 
 - ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) stuart@hi-ll.info
 - Address: Affoltern, Zurich [Europe/Zurich CEST, CET] 
