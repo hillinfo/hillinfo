@@ -6,7 +6,7 @@
 
 Stuart has had a long career in the software industry in Europe. He has held leadership positions at large companies, often in **telecom consumer products**.
 
-He began his career in the **software industry** #PrivateBanking**.  as part of various Telecom projects for Deutsche Aeropspace as an information technology (IT) professional. He spent 6 years at **SAP**, at the source of **Platform development** overseeing clients Platform operations; Author for SAPInsider.com, Cert, and AsktheExpert Group, before consulting as Principal at Siemens for Primergy brand and independently joining SAP Basis projects at Nestle, Accenture, & Statoil, immediately before becoming as part of Integration Architecture at Johnson & Johnson having worked largely in ERP and Swisscom IT Services, largely launching **Mobile and Health SAP** Practice.
+He began his career in the **software industry** #Corporate Finance IT**.  as part of various Telecom projects for Deutsche Aeropspace as an information technology (IT) professional. He spent 6 years at **SAP**, at the source of **Platform development** overseeing clients Platform operations; Author for SAPInsider.com, Cert, and AsktheExpert Group, before consulting as Principal at Siemens for Primergy brand and independently joining SAP Basis projects at Nestle, Accenture, & Statoil, immediately before becoming as part of Integration Architecture at Johnson & Johnson having worked largely in ERP and Swisscom IT Services, largely launching **Mobile and Health SAP** Practice.
 
 Learn more on  **LinkedIn**
 
